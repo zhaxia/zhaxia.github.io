@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zhaxia的笔记</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-17T11:04:31.447Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zhaxia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/02/17/hello-world/"/>
+    <id>http://yoursite.com/2019/02/17/hello-world/</id>
+    <published>2019-02-17T11:04:31.447Z</published>
+    <updated>2019-02-17T11:04:31.447Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>调用静态库</title>
+    <link href="http://yoursite.com/2019/02/16/%E8%B0%83%E7%94%A8%E9%9D%99%E6%80%81%E5%BA%93/"/>
+    <id>http://yoursite.com/2019/02/16/调用静态库/</id>
+    <published>2019-02-16T09:24:43.000Z</published>
+    <updated>2019-02-17T11:06:28.888Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-介绍&quot;&gt;&lt;a href=&quot;#1-介绍&quot; class=&quot;headerlink&quot; title=&quot;1 介绍&quot;&gt;&lt;/a&gt;1
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
